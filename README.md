@@ -5,13 +5,15 @@ This is my second year participating in Advent of Code.
 <!-- {RESULTS_START} -->
 | Day | Status | Execution Time Comparison | Execution Time |
 |-----|--------|---------------------------|----------------|
-|[1](src/days/day1.rs)|![Static Badge](https://img.shields.io/badge/Success-green?style=flat)|![Static Badge](https://progress-bar.xyz/83/?width=500&progress_color=8935D9&progress_background=404040&show_text=false)|47µs|
-<!-- {DAY 1=47} -->
+|[1](src/days/day1.rs)|![Static Badge](https://img.shields.io/badge/Success-green?style=flat)|![Static Badge](https://progress-bar.xyz/0/?width=500&progress_color=8935D9&progress_background=404040&show_text=false)|56µs|
+|[2](src/days/day2.rs)|![Static Badge](https://img.shields.io/badge/Success-green?style=flat)|![Static Badge](https://progress-bar.xyz/83/?width=500&progress_color=8935D9&progress_background=404040&show_text=false)|31ms|
+<!-- {DAY 1=56} -->
+<!-- {DAY 2=31355} -->
 <!-- {RESULTS_END} -->
-*The table above is automatically generated with each execution of the test suite.*
+*The table above is automatically generated with each execution of the test suite. The tests were run on a Ryzen 9 9950X3D.*
 
 **NOTE:** Every solution has been validated against **two separate inputs** from two different [adventofcode.com](https://adventofcode.com) accounts.
-A `Success` badge next to a day means that the solution produced the correct results for both **Path 1 and Part 2** of **both** input sets.
+A `Success` badge next to a day means that the solution produced the correct results for both **Part 1 and Part 2** of **both** input sets.
 
 ## Running individual solutions
 If you would like to run any of my solutions against your own input, the easiest way to do so if **cloning this repository**
